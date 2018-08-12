@@ -1,0 +1,11 @@
+{
+  "name": "Henbot 2.0",
+  "version": "2.0.0",
+  "description": "Sends random pictures of Henry daily",
+  "main": "bot.js",
+  "author": "Peter He",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^3.0.0"
+  }
+}
